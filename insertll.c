@@ -195,6 +195,7 @@ printsize ()
 {
 
   printf ("size is %d\n", size);
+return;
 }
 
 void
