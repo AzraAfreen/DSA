@@ -61,7 +61,7 @@ main ()
 	}
 
     }
-  while (ch != 5);
+  while (ch != 6);
 
   return 0;
 
