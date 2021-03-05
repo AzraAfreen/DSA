@@ -157,6 +157,7 @@ insertatbegin ()
       first = (ll *) malloc (sizeof (ll));
       printf ("enter data");
       scanf ("%d", &first->data);
+      first->link=NULL;
       size++;
       printf ("First Node Created\n");
     }
